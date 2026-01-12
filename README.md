@@ -167,8 +167,7 @@ As functionality is implemented, this entry point will drive the full case analy
 
 An end-to-end toy pipeline is provided in `demo_case_pipeline.py`. It shows how the toolkit can already run a simple rare disease case:
 
-```bash
-python demo_case_pipeline.py
+```python demo_case_pipeline.py```
 
 ---
 
