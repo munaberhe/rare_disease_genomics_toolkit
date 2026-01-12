@@ -1,0 +1,8 @@
+variant_id,gene,consequence,impact,polyphen,af
+rs1001,BRCA1,missense_variant,MODERATE,0.98,0.00005
+rs1002,BRCA1,synonymous_variant,LOW,0.02,0.02
+rs2001,BRCA2,missense_variant,MODERATE,0.95,0.00010
+rs3001,CFTR,stop_gained,HIGH,0.99,0.00001
+rs4001,LDLR,intron_variant,MODIFIER,0.01,0.03
+rs5001,TP53,missense_variant,MODERATE,0.97,0.00002
+
