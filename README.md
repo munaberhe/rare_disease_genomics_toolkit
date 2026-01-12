@@ -163,6 +163,13 @@ The CLI currently only parses arguments and prints them, but can be invoked as:
 
 As functionality is implemented, this entry point will drive the full case analysis.
 
+### 3. End-to-end demo case pipeline
+
+An end-to-end toy pipeline is provided in `demo_case_pipeline.py`. It shows how the toolkit can already run a simple rare disease case:
+
+```bash
+python demo_case_pipeline.py
+
 ---
 
 ## Roadmap
